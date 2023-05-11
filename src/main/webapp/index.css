@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+.container{
+    background-image: url(./grapefruits-g680bc1a55_1920.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    box-sizing: border-box;
+    font-family: sans-serif;
+   
+}
+h1{
+background-color: red;
+}
+
+h2{
+background-color: yellow;
+}
+button{
+	height: 50px;
+	width: 80px;
+	background-color: green;
+}
+
+
+

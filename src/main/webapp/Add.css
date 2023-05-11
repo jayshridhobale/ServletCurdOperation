@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+.container{
+    background-image: url(./woman-gfddaa092d_1920.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background-color: red;
+}
